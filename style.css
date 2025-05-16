@@ -52,11 +52,11 @@ body {
 .container__botao {
     background-color: var(--botao-azul);
     border-radius: 5px;
-    padding: lem;
+    padding: 1em;
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
-    margin-bottom: lem;
+    margin-bottom: 1em;
 }
 
 .botao__secundario {
